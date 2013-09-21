@@ -11,6 +11,7 @@
                  "perl-flymake.el"
                  "popwin.el"
                  "quickrun.el"
+                 "helm-project.el"
                  "misc.el"
                  )))
   (dolist (conf conf-list)
