@@ -12,6 +12,7 @@
                  "popwin.el"
                  "quickrun.el"
                  "helm-project.el"
+                 "server.el"
                  "misc.el"
                  )))
   (dolist (conf conf-list)
