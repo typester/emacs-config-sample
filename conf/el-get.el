@@ -22,4 +22,5 @@
           auto-complete
           perl-completion
           popwin
-          quickrun))
+          quickrun
+          helm-project))
