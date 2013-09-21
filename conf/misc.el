@@ -20,3 +20,15 @@
 
 ;; 対応する括弧を光らせる
 (show-paren-mode 1)
+
+;; Cocoaの人向け
+
+;;;; metaキーを入れ替える
+;;(setq ns-command-modifier (quote meta))
+;;(setq ns-alternate-modifier (quote super))
+
+;;;; 関連づけなどからファイルを開く場合に新規ウィンドウを開かない
+;;(setq ns-pop-up-frames nil)
+
+;;;; C-z で最小化するのうざいのでころす
+;;(define-key global-map (kbd "C-z") nil)
